@@ -68,22 +68,6 @@
 
 ### 3.1. Frontend
 
-- **Web Interface Architecture:** Client-Side Rendering (CSR) application based on feature modules
-- **Rendering:** Client-side rendering using JavaScript and HTML templates
-- **Technology Stack:** HTML5, CSS3, JavaScript (ES6), AJAX (Fetch API)
-- **Client–Server Communication:** Asynchronous communication with backend REST API endpoints using AJAX requests
-
-### 3.2. Backend
-
-- **Architecture:** Feature-Based Modular Monolith with layered architecture (Entity, Controller, Service, Repository)
-- **Database:** MySQL, Spring Data JPA, Hibernate
-- **Security:** Custom session-based authentication without Spring Security
-- **Technology Stack:** Java 21, Spring Boot, Spring Data JPA, Hibernate, Maven
-
-## 3. Architecture
-
-### 3.1. Frontend
-
 - Web Interface Architecture: Client-Side Rendering (CSR) application based on feature modules
 - Rendering: Client-side rendering using JavaScript and HTML templates
 - Technology Stack: HTML5, CSS3, JavaScript (ES6), AJAX (Fetch API)
